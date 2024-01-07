@@ -1,0 +1,37 @@
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+.row1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.col-1 {
+    width: 500px;
+}
+
+.col-2 {
+    width: 500px;
+}
+
+.heading-style1 {
+    font-size: 80px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 100;
+    line-height: 70px;
+}
+
+.heading-style2 {
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 100;
+}
+
+.heading-style3{
+    display: flex;
+    justify-content: right;
+    word-spacing: 50px;
+    font-size: 20px;
+}
